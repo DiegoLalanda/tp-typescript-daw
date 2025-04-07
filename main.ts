@@ -1,3 +1,12 @@
+/* 
+TP Typescript - Desarrollo de Aplicaciones Web
+GRUPO: FERNANDA ELOLA,  DIEGO JAVIER LALANDA
+
+Tecnicatura Universitaria en Desarrollo Web
+UNER FACULTAD DE CIENCIAS DE LA ADMINISTRACION
+2025
+*/
+
 // 1. Crear interfaz Animal
 interface Animal {
     nombre: string;
